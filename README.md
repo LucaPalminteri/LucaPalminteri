@@ -2,8 +2,8 @@
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: www.lucapalminteri.com
-                      https://mailto:lucapalminteri02@gmail.com
+- 📫 How to reach me: www.lucapalminteri.com <br>
+                      https://mailto:lucapalminteri02@gmail.com <br>
                       https://www.linkedin.com/in/luca-palminteri/
 
 <!---
