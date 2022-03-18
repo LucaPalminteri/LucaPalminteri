@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: 
-<a href="https://lucapalminteri.com/" target="_blank">Website<a>
+<a href="https://lucapalminteri.com/" target="_blank">Website<a> | <a href="mailto:lucapalminteri02@gmail.com" target="_blank">Email<a>
                       https://mailto:lucapalminteri02@gmail.com <br>
                       https://www.linkedin.com/in/luca-palminteri/
 
