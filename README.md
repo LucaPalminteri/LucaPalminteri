@@ -1,4 +1,7 @@
  ![greetings](https://user-images.githubusercontent.com/96749856/159160340-2593bfad-4983-4067-b5c0-71afdf1e3d6c.gif)
+ 
+ ![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](https://user-images.githubusercontent.com/96749856/159160486-edbd4f59-e6ea-4b20-bb4f-aac6084753bd.gif)
+
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
 - 👀 I’m interested in FrontEnd Development.
 - 🌱 I’m currently learning React, and starting with SQL.
