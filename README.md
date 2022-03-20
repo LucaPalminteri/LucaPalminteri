@@ -1,5 +1,6 @@
  
- ![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](https://user-images.githubusercontent.com/96749856/159160486-edbd4f59-e6ea-4b20-bb4f-aac6084753bd.gif)
+ ![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)
+
 
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
 - 👀 I’m interested in FrontEnd Development.
