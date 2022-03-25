@@ -15,16 +15,16 @@
 ##About me          
 ```js
   const lucaPalminteri = {
-  pronouns: "he/him",
-  languages: ["Spanish", "English"],
-  code: ["JavaScript", "HTML", "CSS", "C++"],
-  tools: ["React", "Next.js", "Node.js"],
-  hobbies: [{
+   pronouns: "he/him",
+   languages: ["Spanish", "English"],
+   code: ["JavaScript", "HTML", "CSS", "C++"],
+   tools: ["React", "Next.js", "Node.js"],
+   hobbies: [{
     outdoor: ["swimming", "gym"],
-  }, {
+   }, {
     indoor: ["Chess", "Coding"],
-  }],
-  links: {
+   }],
+   links: {
     website: "https://lucapalminteri.com/",
     instagram: "https://www.instagram.com/luca_palminteri/",
     tiktok: "https://www.tiktok.com/@lucapalminteri",
