@@ -12,7 +12,7 @@
          <a href="https://www.linkedin.com/in/luca-palminteri/" target="_blank">LinkedIn</a> |
          <a href="https://t.me/Lucapo21" target="_blank">Telegram</a>
         
-##About me          
+## About me          
 ```js
   const lucaPalminteri = {
    pronouns: "he/him",
