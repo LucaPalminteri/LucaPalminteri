@@ -11,8 +11,9 @@
          <a href="mailto:lucapalminteri02@gmail.com" target="_blank">Email<a> |
          <a href="https://www.linkedin.com/in/luca-palminteri/" target="_blank">LinkedIn</a> |
          <a href="https://t.me/Lucapo21" target="_blank">Telegram</a>
-          
-```
+        
+##About me          
+```js
   const lucaPalminteri = {
   pronouns: "he/him",
   languages: ["Spanish", "English"],
