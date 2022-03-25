@@ -13,27 +13,21 @@
          <a href="https://t.me/Lucapo21" target="_blank">Telegram</a>
           
 ```
-          const carlosazaustre = {
+  const lucaPalminteri = {
   pronouns: "he/him",
   languages: ["Spanish", "English"],
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "Prisma"],
-  community: [{
-    co_organizer: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
+  code: ["JavaScript", "HTML", "CSS", "C++"],
+  tools: ["React", "Next.js", "Node.js"],
+  hobbies: [{
+    outdoor: ["swimming", "gym"],
   }, {
-    mentor: ["GDG Spain", "Nodeschool Madrid"],
-  }, {
-    recognitions: ["Google Developer Expert", "Auth0 Ambassador", "Prisma Ambassador"],
+    indoor: ["Chess", "Coding"],
   }],
   links: {
-    blog: "https://carlosazaustre.es",
-    youtube: "https://youtube.com/carlosazaustre",
-    twitch: "https://twitch.tv/carlosazaustre",
-    instagram: "https://instagram.com/carlosazaustre",
-    twitter: "https://twitter.com/carlosazaustre",
-    podcast: "https://anchor.fm/carlosazaustre",
-    tiktok: "https://tiktok.com/@carlosazaustre",
-    linkedin: "https://linkedin.com/in/carlosazaustre"
+    website: "https://lucapalminteri.com/",
+    instagram: "https://www.instagram.com/luca_palminteri/",
+    tiktok: "https://www.tiktok.com/@lucapalminteri",
+    linkedin: "https://www.linkedin.com/in/luca-palminteri/"
   },
 };
 ```          
