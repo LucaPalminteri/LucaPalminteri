@@ -1,6 +1,4 @@
- 
- ![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)
-
+  ![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)
 
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
 - 👀 I’m interested in FrontEnd Development.
@@ -31,12 +29,9 @@
     linkedin: "https://www.linkedin.com/in/luca-palminteri/"
   },
 };
-```          
-                                        
+```                                              
                       
 <!---
 LucaPalminteri/LucaPalminteri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-          
-          
