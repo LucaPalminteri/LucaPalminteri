@@ -16,11 +16,11 @@
    pronouns: "he/him",
    languages: ["Spanish", "English"],
    code: ["JavaScript", "HTML", "CSS", "C++"],
-   tools: ["React", "Next.js", "Node.js"],
+   tools: ["React", "SASS", "Bootstrap"],
    hobbies: [{
-    outdoor: ["swimming", "gym"],
+    sports: ["swimming","soccer","basketball"],
    }, {
-    indoor: ["Chess", "Coding"],
+    books: ["The Count of Monte Cristo", "Treasure Island"]
    }],
    links: {
     website: "https://lucapalminteri.com/",
