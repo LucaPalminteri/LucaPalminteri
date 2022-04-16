@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
 - 👀 I’m interested in FrontEnd Development.
-- 🌱 I’m currently learning nodejs, and starting with SQL.
+- 🌱 I’m currently learning next.js.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: 
          <a href="https://lucapalminteri.com/" target="_blank">Website<a> | 
