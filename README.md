@@ -16,7 +16,7 @@
    pronouns: "he/him",
    languages: ["Spanish", "English"],
    code: ["JavaScript", "HTML", "CSS", "C++"],
-   tools: ["React", "SASS", "Bootstrap"],
+   tools: ["React", "Next.js", "Bootstrap"],
    hobbies: [{
     sports: ["swimming","soccer","basketball"],
    }, {
