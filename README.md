@@ -20,7 +20,7 @@
    hobbies: [{
     sports: ["swimming","soccer","basketball"],
    }, {
-    books: ["The Count of Monte Cristo", "Treasure Island"]
+    books: ["The Pragmatic Programmer", "Treasure Island"]
    }],
    links: {
     website: "https://lucapalminteri.com/",
