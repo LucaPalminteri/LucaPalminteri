@@ -14,9 +14,9 @@
 ```js
   const lucaPalminteri = {
    pronouns: "he/him",
-   languages: ["Spanish", "English"],
-   code: ["JavaScript", "Python", "HTML", "C++"],
-   tools: ["React", "Next.js", "Bootstrap"],
+   languages: ["Spanish", "English", "~Italian"],
+   code: ["JavaScript", "C++", "Python", "HTML"],
+   tools: ["React", "Next.js", "Vite"],
    hobbies: [{
     sports: ["swimming","soccer","basketball"],
    }, {
