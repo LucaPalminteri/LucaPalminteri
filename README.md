@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
 - 👀 I’m interested in FrontEnd Development.
-- 🌱 I’m currently learning next.js.
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently learning nodejs.
+- 💞️ I’m looking to collaborate on educational projects.
 - 📫 How to reach me: 
          <a href="https://lucapalminteri.com/" target="_blank">Website<a> | 
          <a href="mailto:lucapalminteri02@gmail.com" target="_blank">Email<a> |
