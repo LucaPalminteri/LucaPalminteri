@@ -1,7 +1,7 @@
   ![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)
 
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
-- 👀 I’m interested in FrontEnd Development.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning nodejs.
 - 💞️ I’m looking to collaborate on educational projects.
 - 📫 How to reach me: 
