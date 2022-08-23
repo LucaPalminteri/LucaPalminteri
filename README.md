@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning nodejs.
 - 💞️ I’m looking to collaborate on educational projects.
 - 📫 How to reach me: 
-         <a href="https://lucapalminteri.com/" target="_blank">Website<a> | 
-         <a href="mailto:lucapalminteri02@gmail.com" target="_blank">Email<a> |
-         <a href="https://www.linkedin.com/in/luca-palminteri/" target="_blank">LinkedIn</a> |
-         <a href="https://t.me/Lucapo21" target="_blank">Telegram</a>
+  - <a href="https://lucapalminteri.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-fbf8cc?style=flat-square&logo=web&logoColor=FFF"></a>
+  - <a href="mailto:lucapalminteri02@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square&logo=gmail&logoColor=FFF"></a>
+  - <a href="https://www.linkedin.com/in/luca-palminteri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-004182?style=flat-square&logo=linkedin&logoColor=FFF"></a>
         
 ## About me          
 ## 🛠️ Technologies 
