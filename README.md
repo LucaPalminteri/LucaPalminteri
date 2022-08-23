@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning nodejs.
-- 💞️ I’m looking to collaborate on educational projects.
+- 👀 I’m interested in software in general (Web Development, Mobile Development, Data Structure, Algorithms, AI, etc).
+- 🌱 I’m currently learning as much as I can.
+- 💞️ I’m looking to collaborate on projects that have some social impact.
 - 📫 How to reach me: 
 
   <a href="https://lucapalminteri.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-fbf8cc?style=flat-square&logo=web&logoColor=FFF"></a>
