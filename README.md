@@ -52,6 +52,7 @@
 
 ### Knowledge but not working with
 <p>
+  <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="C++" src="https://img.shields.io/badge/C++-2122b6?style=flat-square&logo=cplusplus&logoColor=FFF">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3b6b94?style=flat-square&logo=python&logoColor=FFF"> 
@@ -63,7 +64,6 @@
 <p>
   <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white"/></a>
     <a href="https://github.com/LucaPalminteri"><img alt="Data Structure and Algorithms" src="https://img.shields.io/badge/Data%20Structure%20and%20Algorithms-AF34BA?style=flat-square&logo=thealgorithms&logoColor=FFF" /></a>
-    <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
 </p>
 
