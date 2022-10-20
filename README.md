@@ -29,6 +29,7 @@
 
 ### Backend
 <p>
+  <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://img.shields.io/badge/.NET-888888?style=flat-square&logo=.net&logoColor=FFF"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
@@ -52,7 +53,6 @@
 
 ### Knowledge but not working with
 <p>
-  <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="C++" src="https://img.shields.io/badge/C++-2122b6?style=flat-square&logo=cplusplus&logoColor=FFF">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3b6b94?style=flat-square&logo=python&logoColor=FFF"> 
