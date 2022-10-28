@@ -16,6 +16,7 @@
 
 ### Frontend
 <p>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"></a>
@@ -25,6 +26,7 @@
   <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=000"/></a>
   <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://img.shields.io/badge/Taildwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=fff"/></a>
   <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=FFF"/></a>
+  <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white"/></a>
 </p>
 
 ### Backend
@@ -35,8 +37,13 @@
   <a href="https://github.com/LucaPalminteri"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="Microsoft-sql-server" src="https://img.shields.io/badge/Microsoft_SQL_SERVER-grey.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white%22"></a>
-  <!--<a href="https://github.com/LucaPalminteri"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  <a href="https://github.com/LucaPalminteri"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>-->
+  
+</p>
+
+### DevOps
+<p>
+  <a href="https://github.com/LucaPalminteri"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/LucaPalminteri"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
 </p>
 
 ### Tools
@@ -52,19 +59,20 @@
 </p>
 
 ### Knowledge but not working with
-<p>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></a>
+<p> 
   <a href="https://github.com/LucaPalminteri"><img alt="C++" src="https://img.shields.io/badge/C++-2122b6?style=flat-square&logo=cplusplus&logoColor=FFF">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3b6b94?style=flat-square&logo=python&logoColor=FFF"> 
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=00ED64"> 
   <a href="https://sequelize.org/"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-02afef?style=flat-square&logo=sequelize&logoColor=FFF"> 
   <a href="https://github.com/LucaPalminteri"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
 
 ## 🤓 Learning
-<p>
-  <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white"/></a>
+<p> 
     <a href="https://github.com/LucaPalminteri"><img alt="Data Structure and Algorithms" src="https://img.shields.io/badge/Data%20Structure%20and%20Algorithms-AF34BA?style=flat-square&logo=thealgorithms&logoColor=FFF" /></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
+    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-020381?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+    <a href="https://https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=FFF" /></a>
 </p>
 
 ![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)
