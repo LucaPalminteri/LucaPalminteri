@@ -30,13 +30,22 @@
 </p>
 
 ### Backend
-<p>
+<p>   
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://img.shields.io/badge/.NET-888888?style=flat-square&logo=.net&logoColor=FFF"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="Microsoft-sql-server" src="https://img.shields.io/badge/Microsoft_SQL_SERVER-grey.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white%22"></a>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white"></a>
+  <a href="https://jwt.io/"><img alt="JWT" src="https://img.shields.io/badge/-JWT-333?style=flat-square&logo=jsonwebtokens&logoColor=white"></a>
+  <a href="https://supabase.com/"><img alt="supabase" src="https://img.shields.io/badge/-supabase-333?style=flat-square&logo=supabase&logoColor=3ECF8E"></a>
+  <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/-firebase-039BE5?style=flat-square&logo=firebase&logoColor=FFCC2E"></a>
+  <a href="https://www.postman.com/"><img alt="postman" src="https://img.shields.io/badge/-postman-1B1918?style=flat-square&logo=postman&logoColor=FF6C37"></a>
+  <a href="https://insomnia.rest/"><img alt="insomnia" src="https://img.shields.io/badge/-insomnia-675BC0?style=flat-square&logo=insomnia&logoColor=fff"></a>
+  <!--<a href=""><img alt="" src=""></a>-->
+  <!--<a href=""><img alt="" src=""></a>-->
+  <!--<a href=""><img alt="" src=""></a>-->
   
 </p>
 
