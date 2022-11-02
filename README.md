@@ -43,7 +43,7 @@
   <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/-firebase-039BE5?style=flat-square&logo=firebase&logoColor=FFCC2E"></a>
   <a href="https://www.postman.com/"><img alt="postman" src="https://img.shields.io/badge/-postman-1B1918?style=flat-square&logo=postman&logoColor=FF6C37"></a>
   <a href="https://insomnia.rest/"><img alt="insomnia" src="https://img.shields.io/badge/-insomnia-675BC0?style=flat-square&logo=insomnia&logoColor=fff"></a>
-  <!--<a href=""><img alt="" src=""></a>-->
+  <a href="https://expressjs.com/"><img alt="express" src="https://img.shields.io/badge/-express-EEE?style=flat-square&logo=express&logoColor=000"></a>
   <!--<a href=""><img alt="" src=""></a>-->
   <!--<a href=""><img alt="" src=""></a>-->
   
@@ -56,7 +56,7 @@
 </p>
 
 ### Tools
-<p>
+<p> 
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
   <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/Yarn-2188b6?style=flat-square&logo=yarn&logoColor=FFF"/></a>
@@ -65,6 +65,9 @@
   <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="JSON" src="https://img.shields.io/badge/JSON-555555?style=flat-square&logo=JSON&logoColor=FFF"></a>
   <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=VITE&logoColor=FFF"></a>
+  <a href="https://www.atlassian.com/software/jira"><img alt="jira" src="https://img.shields.io/badge/-jira-0255CF?style=flat-square&logo=jira&logoColor=FFF"></a>
+  <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-EEE?style=flat-square&logo=eslint&logoColor=4339D6"></a>
+  
 </p>
 
 ### Knowledge but not working with
