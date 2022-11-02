@@ -27,6 +27,8 @@
   <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://img.shields.io/badge/Taildwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=fff"/></a>
   <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=FFF"/></a>
   <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white"/></a>
+  <a href="https://www.adobe.com/products/xd.html"><img alt="AdobeXD" src="https://img.shields.io/badge/AdobeHD-470137.svg?style=flat-square&logo=adobexd&logoColor=FE60F5"></a>
+  <a href="https://chakra-ui.com/"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-EFEFEF?style=flat-square&logo=CHAKRAUI&logoColor=29BFB3"></a>
 </p>
 
 ### Backend
@@ -44,6 +46,7 @@
   <a href="https://www.postman.com/"><img alt="postman" src="https://img.shields.io/badge/-postman-1B1918?style=flat-square&logo=postman&logoColor=FF6C37"></a>
   <a href="https://insomnia.rest/"><img alt="insomnia" src="https://img.shields.io/badge/-insomnia-675BC0?style=flat-square&logo=insomnia&logoColor=fff"></a>
   <a href="https://expressjs.com/"><img alt="express" src="https://img.shields.io/badge/-express-EEE?style=flat-square&logo=express&logoColor=000"></a>
+  <a href="https://redis.io/"><img alt="redis" src="https://img.shields.io/badge/Redis-800?style=flat-square&logo=redis&logoColor=F00"></a>
   <!--<a href=""><img alt="" src=""></a>-->
   <!--<a href=""><img alt="" src=""></a>-->
   
@@ -58,8 +61,8 @@
 ### Tools
 <p> 
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
-  <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/Yarn-2188b6?style=flat-square&logo=yarn&logoColor=FFF"/></a>
+  <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+  <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/yarn-2188b6?style=flat-square&logo=yarn&logoColor=FFF"/></a>
   <a href="https://github.com/LucaPalminteri"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=FFF"/></a>
   <a href="https://github.com/LucaPalminteri"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-333333?style=flat-square&logo=gitlab&logoColor=FFF"/></a>
   <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
@@ -67,6 +70,7 @@
   <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=VITE&logoColor=FFF"></a>
   <a href="https://www.atlassian.com/software/jira"><img alt="jira" src="https://img.shields.io/badge/-jira-0255CF?style=flat-square&logo=jira&logoColor=FFF"></a>
   <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-EEE?style=flat-square&logo=eslint&logoColor=4339D6"></a>
+  <a href="https://axios-http.com/"><img alt="axios" src="https://img.shields.io/badge/Axios-EFEFEF?style=flat-square&logo=axios&logoColor=6038D6"></a>
   
 </p>
 
