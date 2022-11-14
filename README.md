@@ -88,7 +88,6 @@
 ## 🤓 Learning
 <p> 
     <a href="https://github.com/LucaPalminteri"><img alt="Data Structure and Algorithms" src="https://img.shields.io/badge/Data%20Structure%20and%20Algorithms-AF34BA?style=flat-square&logo=thealgorithms&logoColor=FFF" /></a>
-    
     <a href="https://https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=FFF" /></a>
 </p>
 
