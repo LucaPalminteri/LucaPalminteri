@@ -55,9 +55,11 @@
 ### DevOps
 <p>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
-    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-020381?style=flat-square&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://github.com/LucaPalminteri"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-020381?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="Linux" src="https://img.shields.io/badge/Linux-EEE?style=flat-square&logo=linux&logoColor=black"></a>
+  <a href="https://ubuntu.com/"><img alt="ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
+  <a href="https://www.digitalocean.com/"><img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"></a>
 </p>
 
 ### Tools
