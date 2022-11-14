@@ -54,8 +54,10 @@
 
 ### DevOps
 <p>
-  <a href="https://github.com/LucaPalminteri"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  <a href="https://github.com/LucaPalminteri"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
+    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-020381?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://github.com/LucaPalminteri"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/LucaPalminteri"><img alt="Linux" src="https://img.shields.io/badge/Linux-EEE?style=flat-square&logo=linux&logoColor=black"></a>
 </p>
 
 ### Tools
@@ -86,8 +88,7 @@
 ## 🤓 Learning
 <p> 
     <a href="https://github.com/LucaPalminteri"><img alt="Data Structure and Algorithms" src="https://img.shields.io/badge/Data%20Structure%20and%20Algorithms-AF34BA?style=flat-square&logo=thealgorithms&logoColor=FFF" /></a>
-    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
-    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-020381?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+    
     <a href="https://https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=FFF" /></a>
 </p>
 
