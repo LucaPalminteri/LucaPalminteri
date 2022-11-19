@@ -37,7 +37,7 @@
   <a href="https://jwt.io/"><img alt="JWT" src="https://img.shields.io/badge/-JWT-333?style=flat-square&logo=jsonwebtokens&logoColor=white"></a>
   <a href="https://supabase.com/"><img alt="supabase" src="https://img.shields.io/badge/-supabase-333?style=flat-square&logo=supabase&logoColor=3ECF8E"></a>
   <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/-firebase-039BE5?style=flat-square&logo=firebase&logoColor=FFCC2E"></a>
-  <a href="https://www.postman.com/"><img alt="postman" src="https://img.shields.io/badge/-postman-1B1918?style=flat-square&logo=postman&logoColor=FF6C37"></a>
+  <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>        
   <a href="https://insomnia.rest/"><img alt="insomnia" src="https://img.shields.io/badge/-insomnia-675BC0?style=flat-square&logo=insomnia&logoColor=fff"></a>
   <a href="https://expressjs.com/"><img alt="express" src="https://img.shields.io/badge/-express-EEE?style=flat-square&logo=express&logoColor=000"></a>
   <a href="https://redis.io/"><img alt="redis" src="https://img.shields.io/badge/Redis-800?style=flat-square&logo=redis&logoColor=F00"></a>
@@ -63,7 +63,6 @@
   <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/yarn-2188b6?style=flat-square&logo=yarn&logoColor=FFF"/></a>
   <a href="https://github.com/LucaPalminteri"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=FFF"/></a>
   <a href="https://github.com/LucaPalminteri"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-333333?style=flat-square&logo=gitlab&logoColor=FFF"/></a>
-  <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
   <a href="https://github.com/LucaPalminteri"><img alt="JSON" src="https://img.shields.io/badge/JSON-555555?style=flat-square&logo=JSON&logoColor=FFF"></a>
   <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=VITE&logoColor=FFF"></a>
   <a href="https://www.atlassian.com/software/jira"><img alt="jira" src="https://img.shields.io/badge/-jira-0255CF?style=flat-square&logo=jira&logoColor=FFF"></a>
