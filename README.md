@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Luca Palminteri (@LucaPalminteri).
+- 👋 Hi, I’m Luca Palminteri.
 - 👀 I’m interested in software in Web Development.
 - 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate on projects that have some social impact.
