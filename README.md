@@ -78,9 +78,9 @@
   <a href="https://github.com/LucaPalminteri"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
 -->
-## 🤓 Learning
+<!--## 🤓 Learning
 <p> 
     <a href="https://https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=FFF" /></a>
-</p>
+</p>-->
 
 ![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)
