@@ -77,8 +77,8 @@
   <a href="https://sequelize.org/"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-02afef?style=flat-square&logo=sequelize&logoColor=FFF"> 
   <a href="https://github.com/LucaPalminteri"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
--->
-<!--## 🤓 Learning
+
+## 🤓 Learning
 <p> 
     <a href="https://https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=FFF" /></a>
 </p>-->
