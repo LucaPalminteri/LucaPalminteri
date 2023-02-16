@@ -80,7 +80,7 @@
 -->
 ## 🤓 Learning
 <p> 
-    <a href="https://https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=FFF" /></a>
+    <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/-redis-C00?style=flat-square&logo=redis&logoColor=FFF" /></a>
 
 </p>
 
