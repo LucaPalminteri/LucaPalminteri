@@ -3,7 +3,8 @@
 - 👀 I’m interested in software in Web Development.
 - 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate on projects that have some social impact.
-- 📫 How to reach me:  <a href="https://lucapalminteri.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-fbf8cc?style=flat-square&logo=web&logoColor=FFF"></a> <a href="mailto:lucapalminteri02@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square&logo=gmail&logoColor=FFF"></a> <a href="https://www.linkedin.com/in/luca-palminteri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-004182?style=flat-square&logo=linkedin&logoColor=FFF"></a>
+- 📫 How to reach me:  
+<!--<a href="https://lucapalminteri.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-fbf8cc?style=flat-square&logo=web&logoColor=FFF"></a> --><a href="mailto:lucapalminteri02@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-BB001B?style=flat-square&logo=gmail&logoColor=FFF"></a> <a href="https://www.linkedin.com/in/luca-palminteri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-004182?style=flat-square&logo=linkedin&logoColor=FFF"></a>
 <!--
 ## About me          
 ## 🛠️ Technologies 
@@ -78,11 +79,12 @@
   <a href="https://github.com/LucaPalminteri"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"></a>
 </p>
 -->
+<!--
 ## 🤓 Learning
 <p> 
     <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/-redis-C00?style=flat-square&logo=redis&logoColor=FFF" /></a>
 
-</p>
+</p>-->
 
 
 <!--![0_0O5n9x6pzlJ5qLkC](https://user-images.githubusercontent.com/96749856/159160528-4b4a3022-9dc4-426c-a702-c60d0dee1fc6.gif)-->
