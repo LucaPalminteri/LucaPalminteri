@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m Luca Palminteri.
 - 👀 I’m interested in software in Web Development.
 - 🌱 I’m currently learning as much as I can.
