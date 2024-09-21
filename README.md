@@ -17,3 +17,4 @@ I’m a passionate software developer focused on **Web Development** with an ins
 *   **Email**: Feel free to reach me at [lucapalminteri02@gmail.com](mailto:lucapalminteri02@gmail.com)  
 *   **LinkedIn**: Let’s network on [LinkedIn](https://www.linkedin.com/in/luca-palminteri/)  
 
+
