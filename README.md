@@ -18,3 +18,4 @@ I’m a passionate software developer focused on **Web Development** with an ins
 *   **LinkedIn**: Let’s network on [LinkedIn](https://www.linkedin.com/in/luca-palminteri/)  
 
 
+
