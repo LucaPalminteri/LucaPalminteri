@@ -7,8 +7,9 @@ Contributing to a brokerage platform that operates across one of Argentina’s m
 ## Connect
 
 <a href="mailto:lucapalminteri02@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="22" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="18" />
 </a>
 <a href="https://www.linkedin.com/in/luca-palminteri/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="22" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="18" />
 </a>
+
