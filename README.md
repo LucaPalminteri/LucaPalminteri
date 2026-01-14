@@ -1,6 +1,6 @@
 👋 Hi, I'm Luca Palminteri
 ==========================
-I'm a passionate software developer focused on **Web Development** with an insatiable curiosity for learning and building meaningful digital experiences.
+Currently working at @Renaiss as a Full Stack Software Engineer. Frontend leaning. Passionate about what I do. I consider myself a problem solver
 
 About Me
 -----------
