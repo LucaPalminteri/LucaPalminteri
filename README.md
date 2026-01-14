@@ -4,6 +4,11 @@ Currently working at @Renaiss as a Full Stack Software Engineer (frontend leanin
 
 Contributing to a brokerage platform that operates across one of Argentina’s main capital markets.
 
-[![Email](https://img.shields.io/badge/Email-%23000000.svg?logo=gmail&logoColor=white)](mailto:lucapalminteri02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-palminteri/)
+## Connect
 
+<a href="mailto:lucapalminteri02@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="22" />
+</a>
+<a href="https://www.linkedin.com/in/luca-palminteri/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="22" />
+</a>
