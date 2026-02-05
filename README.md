@@ -1,6 +1,6 @@
 👋 Hi, I'm Luca Palminteri
 ==========================
-Currently working at @Renaiss as a Full Stack Software Engineer (frontend leaning). 
+Currently working at @Renaiss as a Full Stack Software Engineer. 
 
 Contributing to a brokerage platform that operates across one of Argentina’s main capital markets.
 
